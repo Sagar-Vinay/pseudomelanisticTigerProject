@@ -1,0 +1,498 @@
+S. No.,Ind ID,Sample ID,Taqpep GT,,,,Ind GT,Place,Sex,Wild/Captive,Cluster,Biosample,Bioproject,Sample/Data Source,Data Type
+,,,Sanger,NGS,AS-PCR,Consensus GT,,,,,,,,,
+1,SIM-IND1,STR18F-01,,+/+,+/+,+/+,+/+,Similipal,NA,Wild,SIM,SAMN20704352,PRJNA749163,"NCBS, Bangalore",Targeted SNPs
+,,STR18F-25,+/+,,+/+,+/+,,Similipal,NA,Wild,SIM,SAMN20704369,PRJNA749163,"NCBS, Bangalore",Targeted SNPs
+,,STR18F-75,+/+,+/+,+/+,+/+,,Similipal,NA,Wild,SIM,SAMN20704387,PRJNA749163,"NCBS, Bangalore",Targeted SNPs
+,,SIM19F-14,+/+,+/+,+/+,+/+,,Similipal,NA,Wild,SIM,SAMN20704403,PRJNA749163,"NCBS, Bangalore",Targeted SNPs
+2,SIM-IND2,STR18F-02,+/m,,+/m,+/m,+/m,Similipal,NA,Wild,SIM,SAMN20704353,PRJNA749163,"NCBS, Bangalore",Targeted SNPs
+,,STR18F-27,+/m,,+/m,+/m,,Similipal,NA,Wild,SIM,SAMN20704371,PRJNA749163,"NCBS, Bangalore",Targeted SNPs
+,,STR18F-49,+/m,,+/m,+/m,,Similipal,NA,Wild,SIM,SAMN20704376,PRJNA749163,"NCBS, Bangalore",Targeted SNPs
+,,SIM19F-09,,+/m,+/m,+/m,,Similipal,NA,Wild,SIM,SAMN20704400,PRJNA749163,"NCBS, Bangalore",Targeted SNPs
+,,SIM19F-29,+/m,+/m,+/m,+/m,,Similipal,NA,Wild,SIM,SAMN20704411,PRJNA749163,"NCBS, Bangalore",Targeted SNPs
+3,SIM-IND3,STR18F-04,+/m,,+/m,+/m,+/m,Similipal,NA,Wild,SIM,SAMN20704355,PRJNA749163,"NCBS, Bangalore",Targeted SNPs
+,,STR18F-19,+/m,+/m,+/m,+/m,,Similipal,NA,Wild,SIM,SAMN20704363,PRJNA749163,"NCBS, Bangalore",Targeted SNPs
+,,STR18F-21,+/m,,+/m,+/m,,Similipal,NA,Wild,SIM,SAMN20704365,PRJNA749163,"NCBS, Bangalore",Targeted SNPs
+,,STR18F-43,+/m,+/m,+/m,+/m,,Similipal,NA,Wild,SIM,SAMN20704373,PRJNA749163,"NCBS, Bangalore",Targeted SNPs
+,,STR18F-56,+/m,,+/m,+/m,,Similipal,NA,Wild,SIM,SAMN20704378,PRJNA749163,"NCBS, Bangalore",Targeted SNPs
+,,STR18F-57,,+/m,+/m,+/m,,Similipal,NA,Wild,SIM,SAMN20704379,PRJNA749163,"NCBS, Bangalore",Targeted SNPs
+,,STR18F-58,,,+/m,+/m,,Similipal,NA,Wild,SIM,SAMN20704380,PRJNA749163,"NCBS, Bangalore",Targeted SNPs
+,,STR18F-81,+/+,,+/m,+/m,,Similipal,NA,Wild,SIM,SAMN20704389,PRJNA749163,"NCBS, Bangalore",Targeted SNPs
+,,STR18F-92,+/m,+/m,+/m,+/m,,Similipal,NA,Wild,SIM,SAMN20704394,PRJNA749163,"NCBS, Bangalore",Targeted SNPs
+4,SIM-IND4,STR18F-07,m/m,m/m,m/m,m/m,m/m,Similipal,NA,Wild,SIM,SAMN20704357,PRJNA749163,"NCBS, Bangalore",Targeted SNPs
+,,STR18F-20,m/m,m/m,m/m,m/m,,Similipal,NA,Wild,SIM,SAMN20704364,PRJNA749163,"NCBS, Bangalore",Targeted SNPs
+,,STR18F-26,m/m,m/m,m/m,m/m,,Similipal,NA,Wild,SIM,SAMN20704370,PRJNA749163,"NCBS, Bangalore",Targeted SNPs
+,,STR18F-41,m/m,m/m,m/m,m/m,,Similipal,NA,Wild,SIM,SAMN20704372,PRJNA749163,"NCBS, Bangalore",Targeted SNPs
+,,STR18F-46,,m/m,m/m,m/m,,Similipal,NA,Wild,SIM,SAMN20704374,PRJNA749163,"NCBS, Bangalore",Targeted SNPs
+,,STR18F-61,m/m,m/m,m/m,m/m,,Similipal,NA,Wild,SIM,SAMN20704382,PRJNA749163,"NCBS, Bangalore",Targeted SNPs
+,,STR18F-84,m/m,,m/m,m/m,,Similipal,NA,Wild,SIM,SAMN20704390,PRJNA749163,"NCBS, Bangalore",Targeted SNPs
+5,SIM-IND5,STR18F-08,,,m/m,m/m,m/m,Similipal,NA,Wild,SIM,SAMN20704358,PRJNA749163,"NCBS, Bangalore",Targeted SNPs
+6,SIM-IND6,STR18F-09,,+/m,m/m,m/m,m/m,Similipal,NA,Wild,SIM,SAMN20704359,PRJNA749163,"NCBS, Bangalore",Targeted SNPs
+,,SIM19F-01,m/m,m/m,m/m,m/m,,Similipal,NA,Wild,SIM,SAMN20704398,PRJNA749163,"NCBS, Bangalore",Targeted SNPs
+7,SIM-IND7,STR18F-10,,,m/m,m/m,+/m,Similipal,NA,Wild,SIM,SAMN20704360,PRJNA749163,"NCBS, Bangalore",Targeted SNPs
+,,STR18F-11,+/m,+/m,+/m,+/m,,Similipal,NA,Wild,SIM,SAMN20704361,PRJNA749163,"NCBS, Bangalore",Targeted SNPs
+,,STR18F-50,+/m,+/m,+/m,+/m,,Similipal,NA,Wild,SIM,SAMN20704377,PRJNA749163,"NCBS, Bangalore",Targeted SNPs
+,,STR18F-94,+/+,,+/m,+/m,,Similipal,NA,Wild,SIM,SAMN20704396,PRJNA749163,"NCBS, Bangalore",Targeted SNPs
+8,SIM-IND8,STR18F-59,+/+,,+/+,+/+,+/+,Similipal,NA,Wild,SIM,SAMN20704381,PRJNA749163,"NCBS, Bangalore",Targeted SNPs
+9,SIM-IND9,STR18F-62,m/m,m/m,,m/m,m/m,Similipal,NA,Wild,SIM,SAMN20704383,PRJNA749163,"NCBS, Bangalore",Targeted SNPs
+10,SIM-IND10,STR18F-85,,,,+/m,+/m,Similipal,NA,Wild,SIM,SAMN20704391,PRJNA749163,"NCBS, Bangalore",Targeted SNPs
+11,SIM-IND11,SIM19F-08,+/m,+/m,+/m,+/m,+/m,Similipal,NA,Wild,SIM,SAMN20704399,PRJNA749163,"NCBS, Bangalore",Targeted SNPs
+12,SIM-IND12,STR18T-103,+/m,,,+/m,+/m,Similipal,NA,Wild,SIM,SAMN20704397,PRJNA749163,"NCBS, Bangalore",Targeted SNPs
+13,BMP-IND1,BMP1,+/+,,+/+,+/+,+/+,Bandhavgarh,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+14,BMP-IND2,BMP10,+/+,,+/+,+/+,+/+,Bandhavgarh,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+,,BMP113,+/+,,+/+,+/+,,Bandhavgarh,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+15,BMP-IND3,BMP80,+/+,,+/+,+/+,+/+,Bandhavgarh,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+16,BMP-IND4,BMP4,+/+,,+/+,+/+,+/+,Bandhavgarh,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+,,BMP5,+/+,,+/+,+/+,,Bandhavgarh,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+17,BMP-IND5,BMP6,+/+,,+/+,+/+,+/+,Bandhavgarh,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+,,BMP7,+/+,,+/+,+/+,,Bandhavgarh,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+18,BMP-IND6,BMP12,+/+,,,+/+,+/+,Bandhavgarh,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+,,BMP93,+/+,,+/+,+/+,,Bandhavgarh,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+19,BMP-IND7,BMP9,+/+,,+/+,+/+,+/+,Bandhavgarh,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+,,BMP94,+/+,,+/+,+/+,,Bandhavgarh,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+20,BMP-IND8,BMP11,+/+,,,+/+,+/+,Bandhavgarh,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+,,BMP96,+/+,,+/+,+/+,,Bandhavgarh,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+21,BMP-IND9,BMP13,+/+,,+/+,+/+,+/+,Bandhavgarh,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+,,BMP15,+/+,,+/+,+/+,,Bandhavgarh,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+22,BMP-IND10,BMP14,+/+,,+/+,+/+,+/+,Bandhavgarh,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+,,BMP16,+/+,,+/+,+/+,,Bandhavgarh,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+23,BMP-IND11,BMP120,+/+,,+/+,+/+,+/+,Bandhavgarh,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+24,BMP-IND12,BMP20,+/+,,+/+,+/+,+/+,Bandhavgarh,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+25,BMP-IND13,BMP17,+/+,,,+/+,+/+,Bandhavgarh,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+,,BMP18,+/+,,+/+,+/+,,Bandhavgarh,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+26,BMP-IND14,BMP24,+/+,,+/+,+/+,+/+,Bandhavgarh,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+,,BMP126,+/+,,+/+,+/+,,Bandhavgarh,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+27,BMP-IND15,BMP26,+/+,,+/+,+/+,+/+,Bandhavgarh,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+,,BMP128,+/+,,+/+;+/m,+/+,,Bandhavgarh,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+28,BMP-IND16,BMP21,+/+,,+/+,+/+,+/+,Bandhavgarh,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+,,BMP22,+/+,,+/+,+/+,,Bandhavgarh,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+29,BMP-IND17,BMP25,+/+,,+/+,+/+,+/+,Bandhavgarh,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+,,BMP27,+/+,,+/+,+/+,,Bandhavgarh,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+30,BMP-IND18,BMP34,+/+,,+/+,+/+,+/+,Bandhavgarh,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+,,BMP137,+/+,,+/+,+/+,,Bandhavgarh,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+31,BMP-IND19,BMP42,+/+,,+/m,+/+,+/+,Bandhavgarh,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+32,BMP-IND20,BMP33,+/+,,+/+,+/+,+/+,Bandhavgarh,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+,,BMP37,+/+,,+/+,+/+,,Bandhavgarh,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+33,BMP-IND21,BMP38,+/+,,+/+,+/+,+/+,Bandhavgarh,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+,,BMP144,+/+,,+/+,+/+,,Bandhavgarh,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+34,BMP-IND22,BMP29,+/+,,+/+,+/+,+/+,Bandhavgarh,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+,,BMP41,+/+,,+/+,+/+,,Bandhavgarh,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+35,BMP-IND23,BMP147,+/+,,+/+,+/+,+/+,Bandhavgarh,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+36,BMP-IND24,BMP31,+/+,,+/+,+/+,+/+,Bandhavgarh,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+37,BMP-IND25,BMP45,+/+,,+/+,+/+,+/+,Bandhavgarh,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+38,BMP-IND26,BMP46,+/+,,,+/+,+/+,Bandhavgarh,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+,,BMP50,+/+,,+/+,+/+,,Bandhavgarh,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+39,BMP-IND27,BMP47,+/+,,+/+,+/+,+/+,Bandhavgarh,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+,,BMP51,+/+,,+/+,+/+,,Bandhavgarh,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+40,BMP-IND28,BMP48,+/+,,+/+,+/+,+/+,Bandhavgarh,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+41,BMP-IND29,BMP49,+/+,,+/+,+/+,+/+,Bandhavgarh,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+,,BMP153,+/+,,+/+,+/+,,Bandhavgarh,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+42,BMP-IND30,BMP54,+/+,,+/+,+/+,+/+,Bandhavgarh,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+,,BMP58,+/+,,+/m,+/+,,Bandhavgarh,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+43,BMP-IND31,BMP63,+/+,,+/+,+/+,+/+,Bandhavgarh,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+,,BMP65,+/+,,+/+,+/+,,Bandhavgarh,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+44,BMP-IND32,BMP60,+/+,,,+/+,+/+,Bandhavgarh,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+45,BMP-IND33,BMP70,+/+,,,+/+,+/+,Bandhavgarh,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+,,BMP158,+/+,,+/+,+/+,,Bandhavgarh,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+46,BMP-IND34,BMP71,+/+,,+/+,+/+,+/+,Bandhavgarh,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+47,BMP-IND35,BMP72,+/+,,+/+,+/+,+/+,Bandhavgarh,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+48,BMP-IND36,BMP73,+/+,,,+/+,+/+,Bandhavgarh,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+,,BMP161,+/+,,+/+,+/+,,Bandhavgarh,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+49,BMP-IND37,BMP59,+/+,,+/+,+/+,+/+,Bandhavgarh,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+50,BMP-IND38,BMP61,+/+,,+/+,+/+,+/+,Bandhavgarh,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+,,BMP62,+/+,,+/+,+/+,,Bandhavgarh,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+51,BMP-IND39,BMP64,+/+,,+/+,+/+,+/+,Bandhavgarh,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+52,BMP-IND40,BMP68,+/+,,,+/+,+/+,Bandhavgarh,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+,,BMP74,+/+,,+/+,+/+,,Bandhavgarh,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+53,BMP-IND41,BMP69,+/+,,+/+,+/+,+/+,Bandhavgarh,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+54,BMP-IND42,BMP76,+/+,,,+/+,+/+,Bandhavgarh,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+55,BMP-IND43,BMP77,+/+,,+/+,+/+,+/+,Bandhavgarh,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+56,PJ-IND1,PJ2,+/+,,,+/+,+/+,Palamau,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+57,PJ-IND2,PJ3,+/+,,,+/+,+/+,Palamau,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+58,PJ-IND3,PJ7,+/+,,,+/+,+/+,Palamau,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+59,PJ-IND4,PJ13,+/+,,,+/+,+/+,Palamau,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+60,PJ-IND5,PJ15,+/+,,,+/+,+/+,Palamau,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+61,KMP-IND1,KMP2,+/+,,,+/+,+/+,Kanha,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+62,KMP-IND2,KMP3,+/+,,+/+,+/+,+/+,Kanha,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+63,KMP-IND3,KMP15,+/+,,,+/+,+/+,Kanha,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+64,KMP-IND4,KMP24,+/+,,+/+,+/+,+/+,Kanha,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+65,KMP-IND5,KMP25,+/+,,,+/+,+/+,Kanha,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+66,KMP-IND6,KMP26,+/+,,,+/+,+/+,Kanha,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+67,KMP-IND7,KMP33,+/+,,+/+,+/+,+/+,Kanha,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+68,KMP-IND8,KMP39,+/+,,+/+,+/+,+/+,Kanha,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+69,KMP-IND9,KMP46,+/+,,+/+,+/+,+/+,Kanha,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+70,KMP-IND10,KMP51,+/+,,+/+,+/+,+/+,Kanha,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+71,KMP-IND11,KMP60,+/+,,+/+,+/+,+/+,Kanha,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+72,KMP-IND12,KMP84,+/+,,+/+,+/+,+/+,Kanha,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+73,KMP-IND13,KMP86,+/+,,,+/+,+/+,Kanha,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+74,KMP-IND14,KMP95,+/+,,+/+,+/+,+/+,Kanha,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+75,KMP-IND15,KMP110,+/+,,+/m,+/+,+/+,Kanha,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+76,KMP-IND16,KMP111,+/+,,+/+,+/+,+/+,Kanha,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+77,KMP-IND17,KMP116,+/+,,,+/+,+/+,Kanha,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+78,KMP-IND18,KMP130,+/+,,,+/+,+/+,Kanha,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+79,KMP-IND19,KMP134,+/+,,,+/+,+/+,Kanha,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+80,KMP-IND20,KMP147,+/+,,+/m,+/+,+/+,Kanha,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+81,KMP-IND21,KMP149,+/+,,,+/+,+/+,Kanha,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+82,KMP-IND22,KMP150,+/+,,,+/+,+/+,Kanha,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+83,KMP-IND23,KMP273,+/+,,+/+,+/+,+/+,Kanha,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+84,KMP-IND24,KMP280,+/+,,,+/+,+/+,Kanha,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+85,KMP-IND25,KMP294,+/+,,,+/+,+/+,Kanha,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+86,KMP-IND26,KMP301,+/+,,m/m,+/+,+/+,Kanha,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+87,KMP-IND27,KMP313,+/+,,,+/+,+/+,Kanha,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+88,KMP-IND28,KMP329,+/+,,,+/+,+/+,Kanha,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+89,KMP-IND29,KMP341,+/+,,,+/+,+/+,Kanha,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+90,KMP-IND30,KMP342,+/+,,,+/+,+/+,Kanha,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+91,KMP-IND31,KMP354,+/+,,,+/+,+/+,Kanha,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+92,KMP-IND32,KMP23,+/+,,+/m,+/+,+/+,Kanha,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+93,KMP-IND33,KMP14,+/+,,+/m,+/+,+/+,Kanha,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+94,KMP-IND34,KMP32,+/+,,+/+,+/+,+/+,Kanha,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+95,KMP-IND35,KMP108,+/+,,,+/+,+/+,Kanha,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+96,KMP-IND36,KMP138,+/+,,,+/+,+/+,Kanha,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+97,KMP-IND37,KMP118,+/+,,,+/+,+/+,Kanha,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+98,KMP-IND38,KMP132,+/+,,,+/+,+/+,Kanha,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+99,KMP-IND39,KMP124,+/+,,+/+,+/+,+/+,Kanha,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+100,KMP-IND40,KMP155,+/+,,+/m,+/+,+/+,Kanha,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+101,KMP-IND41,KMP128,+/+,,+/m,+/+,+/+,Kanha,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+102,KMP-IND42,KMP143,+/+,,,+/+,+/+,Kanha,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+103,KMP-IND43,KMP151,+/+,,,+/+,+/+,Kanha,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+104,KMP-IND44,KMP152,+/+,,+/+,+/+,+/+,Kanha,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+105,KMP-IND45,KMP267,+/+,,,+/+,+/+,Kanha,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+106,KMP-IND46,KMP246,+/+,,+/m,+/+,+/+,Kanha,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+107,KMP-IND47,KMP156,+/+,,,+/+,+/+,Kanha,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+,,KMP188,+/+,,,+/+,,Kanha,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+,,KMP239,+/+,,m/m,+/+,,Kanha,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+108,KMP-IND48,KMP115,+/+,,,+/+,+/+,Kanha,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+,,KMP144,+/+,,,+/+,,Kanha,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+,,KMP229,+/+,,,+/+,,Kanha,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+109,KMP-IND49,KMP157,+/+,,,+/+,+/+,Kanha,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+,,KMP243,+/+,,,+/+,,Kanha,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+110,KMP-IND50,KMP158,+/+,,,+/+,+/+,Kanha,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+,,KMP214,+/+,,,+/+,,Kanha,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+,,KMP244,+/+,,,+/+,,Kanha,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+111,KMP-IND51,KMP159,+/+,,,+/+,+/+,Kanha,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+,,KMP219,+/+,,,+/+,,Kanha,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+112,KMP-IND52,KMP160,+/+,,,+/+,+/+,Kanha,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+,,KMP247,+/+,,,+/+,,Kanha,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+,,KMP249,+/+,,,+/+,,Kanha,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+113,KMP-IND53,KMP164,+/+,,,+/+,+/+,Kanha,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+,,KMP225,+/+,,,+/+,,Kanha,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+114,KMP-IND54,KMP268,+/+,,,+/+,+/+,Kanha,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+115,PMP-IND1,PMP7,+/+,,,+/+,+/+,Pench MP,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+116,PMP-IND2,PMP3,+/+,,,+/+,+/+,Pench MP,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+117,PMP-IND3,PMP56,+/+,,,+/+,+/+,Pench MP,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+118,PMP-IND4,PMP23,+/+,,,+/+,+/+,Pench MP,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+119,PMP-IND5,PMP27,+/+,,,+/+,+/+,Pench MP,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+120,PMP-IND6,PMP38,+/+,,,+/+,+/+,Pench MP,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+121,PMP-IND7,PMP40,+/+,,,+/+,+/+,Pench MP,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+122,PMP-IND8,PMP75,+/+,,,+/+,+/+,Pench MP,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+123,PMP-IND9,PMP90,+/+,,,+/+,+/+,Pench MP,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+124,AC-IND1,AC1,+/+,,,+/+,+/+,Achanakmar,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+125,SMP-IND1,SMP7,+/+,,,+/+,+/+,Shivpuri,NA,Wild,CI,Not available,Not available,"Reddy et al., 2017",Not Applicable
+126,BHK-IND1,BHK29,+/+,,,+/+,+/+,Bhadhra,F,Wild,SI,Not available,Not available,"Reddy et al., 2019",Not Applicable
+127,BHK-IND2,BHK56,+/+,,,+/+,+/+,Bhadhra,F,Wild,SI,Not available,Not available,"Reddy et al., 2019",Not Applicable
+128,BHK-IND3,BHK65,+/+,,,+/+,+/+,Bhadhra,F,Wild,SI,Not available,Not available,"Reddy et al., 2019",Not Applicable
+129,BHK-IND4,BHK85,+/+,,,+/+,+/+,Bhadhra,M,Wild,SI,Not available,Not available,"Reddy et al., 2019",Not Applicable
+130,BHK-IND5,BHK88,+/+,,,+/+,+/+,Bhadhra,F,Wild,SI,Not available,Not available,"Reddy et al., 2019",Not Applicable
+131,BK-IND1,BK14,+/+,,,+/+,+/+,Bandipur,F,Wild,SI,Not available,Not available,"Reddy et al., 2019",Not Applicable
+132,BK-IND2,BK16,+/+,,,+/+,+/+,Bandipur,F,Wild,SI,Not available,Not available,"Reddy et al., 2019",Not Applicable
+133,BK-IND3,BK21,+/+,,,+/+,+/+,Bandipur,M,Wild,SI,Not available,Not available,"Reddy et al., 2019",Not Applicable
+134,BK-IND4,BK24,+/+,,,+/+,+/+,Bandipur,M,Wild,SI,Not available,Not available,"Reddy et al., 2019",Not Applicable
+135,BK-IND5,BK28,+/+,,,+/+,+/+,Bandipur,M,Wild,SI,Not available,Not available,"Reddy et al., 2019",Not Applicable
+136,BK-IND6,BK90,+/+,,,+/+,+/+,Bandipur,F,Wild,SI,Not available,Not available,"Reddy et al., 2019",Not Applicable
+137,BK-IND7,BK117,+/+,,,+/+,+/+,Bandipur,F,Wild,SI,Not available,Not available,"Reddy et al., 2019",Not Applicable
+138,BK-IND8,BK119,+/+,,,+/+,+/+,Bandipur,F,Wild,SI,Not available,Not available,"Reddy et al., 2019",Not Applicable
+139,BK-IND9,BK122,+/+,,,+/+,+/+,Bandipur,F,Wild,SI,Not available,Not available,"Reddy et al., 2019",Not Applicable
+140,BK-IND10,BK126,+/+,,,+/+,+/+,Bandipur,M,Wild,SI,Not available,Not available,"Reddy et al., 2019",Not Applicable
+141,BK-IND11,BK129,+/+,,,+/+,+/+,Bandipur,M,Wild,SI,Not available,Not available,"Reddy et al., 2019",Not Applicable
+142,BK-IND12,BK132,+/+,,,+/+,+/+,Bandipur,F,Wild,SI,Not available,Not available,"Reddy et al., 2019",Not Applicable
+143,BK-IND13,BK136,+/+,,,+/+,+/+,Bandipur,F,Wild,SI,Not available,Not available,"Reddy et al., 2019",Not Applicable
+144,MTN-IND1,10M,+/+,,,+/+,+/+,Mudumalai,F,Wild,SI,Not available,Not available,"Reddy et al., 2019",Not Applicable
+145,MTN-IND2,21M,+/+,,,+/+,+/+,Mudumalai,F,Wild,SI,Not available,Not available,"Reddy et al., 2019",Not Applicable
+146,MTN-IND3,33M,+/+,,,+/+,+/+,Mudumalai,M,Wild,SI,Not available,Not available,"Reddy et al., 2019",Not Applicable
+147,MTN-IND4,37M,+/+,,,+/+,+/+,Mudumalai,M,Wild,SI,Not available,Not available,"Reddy et al., 2019",Not Applicable
+148,MTN-IND5,44M,+/+,,,+/+,+/+,Mudumalai,F,Wild,SI,Not available,Not available,"Reddy et al., 2019",Not Applicable
+149,MTN-IND6,75M,+/+,,,+/+,+/+,Mudumalai,F,Wild,SI,Not available,Not available,"Reddy et al., 2019",Not Applicable
+150,STN-IND1,STN60,+/+,,,+/+,+/+,Sathyamangalam,M,Wild,SI,Not available,Not available,"Reddy et al., 2019",Not Applicable
+151,BTR20-IND1,BTR20-C02-SC013,+/+,+/+,+/+,+/+,+/+,Bandhavgarh,NA,Wild,CI,SAMN20704438,PRJNA749163,"NCBS, Bangalore",Targeted SNPs
+152,BTR20-IND2,BTR20-C02-SC010,+/+,+/+,+/+,+/+,+/+,Bandhavgarh,NA,Wild,CI,SAMN20704436,PRJNA749163,"NCBS, Bangalore",Targeted SNPs
+153,BTR20-IND3,BTR20-C04-SC017,,+/+,,+/+,+/+,Bandhavgarh,NA,Wild,CI,SAMN20704446,PRJNA749163,"NCBS, Bangalore",Targeted SNPs
+154,BTR20-IND4,BTR20-C03-SC028,,+/+,,+/+,+/+,Bandhavgarh,NA,Wild,CI,SAMN20704444,PRJNA749163,"NCBS, Bangalore",Targeted SNPs
+155,BTR20-IND5,BTR20-C03-SC031,,+/+,,+/+,+/+,Bandhavgarh,NA,Wild,CI,SAMN20704445,PRJNA749163,"NCBS, Bangalore",Targeted SNPs
+156,BTR20-IND6,BTR20-C04-SC022,,+/+,,+/+,+/+,Bandhavgarh,NA,Wild,CI,SAMN20704447,PRJNA749163,"NCBS, Bangalore",Targeted SNPs
+157,BTR20-IND7,BTR20-C04-SC029,,+/+,,+/+,+/+,Bandhavgarh,NA,Wild,CI,SAMN20704450,PRJNA749163,"NCBS, Bangalore",Targeted SNPs
+158,BTR20-IND8,BTR20-C04-SC030,,+/+,,+/+,+/+,Bandhavgarh,NA,Wild,CI,SAMN20704451,PRJNA749163,"NCBS, Bangalore",Targeted SNPs
+159,BTR20-IND9,BTR20-C02-SC002,+/+,+/+,+/+,+/+,+/+,Bandhavgarh,NA,Wild,CI,SAMN20704432,PRJNA749163,"NCBS, Bangalore",Targeted SNPs
+160,BTR20-IND10,BTR20-C02-SC005,,+/+,,+/+,+/+,Bandhavgarh,NA,Wild,CI,SAMN20704433,PRJNA749163,"NCBS, Bangalore",Targeted SNPs
+161,BTR20-IND11,BTR20-C02-SC007,+/+,,+/+,+/+,+/+,Bandhavgarh,NA,Wild,CI,SAMN20704434,PRJNA749163,"NCBS, Bangalore",Targeted SNPs
+162,BTR20-IND12,BTR20-C02-SC008,+/+,+/+,+/+,+/+,+/+,Bandhavgarh,NA,Wild,CI,SAMN20704435,PRJNA749163,"NCBS, Bangalore",Targeted SNPs
+163,BTR20-IND13,BTR20-C02-SC012,+/+,+/+,+/+,+/+,+/+,Bandhavgarh,NA,Wild,CI,SAMN20704437,PRJNA749163,"NCBS, Bangalore",Targeted SNPs
+164,BTR20-IND14,BTR20-C03-SC007,+/+,,+/+,+/+,+/+,Bandhavgarh,NA,Wild,CI,SAMN20704439,PRJNA749163,"NCBS, Bangalore",Targeted SNPs
+165,BTR20-IND15,BTR20-C03-SC010,+/+,,+/+,+/+,+/+,Bandhavgarh,NA,Wild,CI,SAMN20704440,PRJNA749163,"NCBS, Bangalore",Targeted SNPs
+166,KTN-IND1,KTN32,+/+,+/+,,+/+,+/+,KMTR,NA,Wild,SI,SAMN20704416,PRJNA749163,"CCMB, Hyderabad",Targeted SNPs
+167,KTN-IND2,KTN25,+/+,,,+/+,+/+,KMTR,NA,Wild,SI,SAMN20704414,PRJNA749163,"CCMB, Hyderabad",Targeted SNPs
+168,KTN-IND3,KTN28,+/+,,,+/+,+/+,KMTR,NA,Wild,SI,SAMN20704415,PRJNA749163,"CCMB, Hyderabad",Targeted SNPs
+169,ATN-IND1,ATN10,+/+,,,+/+,+/+,Annamalai,NA,Wild,SI,SAMN20704417,PRJNA749163,"CCMB, Hyderabad",Targeted SNPs
+170,SWB-IND1,SWB04,+/+,+/+,,+/+,+/+,Sunderban,NA,Wild,SU,SAMN20704418,PRJNA749163,"CCMB, Hyderabad",Targeted SNPs
+171,SWB-IND2,SWB40,+/+,+/+,,+/+,+/+,Sunderban,NA,Wild,SU,SAMN20704422,PRJNA749163,"CCMB, Hyderabad",Targeted SNPs
+172,SWB-IND3,SWB45,+/+,+/+,,+/+,+/+,Sunderban,NA,Wild,SU,SAMN20704423,PRJNA749163,"CCMB, Hyderabad",Targeted SNPs
+173,SWB-IND4,SWB29,+/+,+/+,,+/+,+/+,Sunderban,NA,Wild,SU,SAMN20704419,PRJNA749163,"CCMB, Hyderabad",Targeted SNPs
+174,SWB-IND5,SWB30,+/+,+/+,,+/+,+/+,Sunderban,NA,Wild,SU,SAMN20704420,PRJNA749163,"CCMB, Hyderabad",Targeted SNPs
+175,SWB-IND6,SWB37,+/+,+/+,,+/+,+/+,Sunderban,NA,Wild,SU,SAMN20704421,PRJNA749163,"CCMB, Hyderabad",Targeted SNPs
+176,KIS17,KIS17,,+/+,+/m,+/+,+/+,Dudhwa,NA,Wild,N,SAMN20704424,PRJNA749163,"NCBS, Bangalore",Targeted SNPs
+177,DDW26,DDW26,,+/+,,+/+,+/+,Dudhwa,NA,Wild,N,SAMN20704425,PRJNA749163,"NCBS, Bangalore",Targeted SNPs
+178,KAZ-IND1,KA16,+/+,+/+,,+/+,+/+,Kaziranga,NA,Wild,NE,SAMN20704426,PRJNA749163,"CCMB, Hyderabad",Targeted SNPs
+179,KAZ-IND2,KA91,+/+,+/+,,+/+,+/+,Kaziranga,NA,Wild,NE,SAMN20704427,PRJNA749163,"CCMB, Hyderabad",Targeted SNPs
+180,KAZ-IND3,KA93,+/+,+/+,,+/+,+/+,Kaziranga,NA,Wild,NE,SAMN20704428,PRJNA749163,"CCMB, Hyderabad",Targeted SNPs
+181,KAZ-IND4,KA99,+/+,+/+,,+/+,+/+,Kaziranga,NA,Wild,NE,SAMN20704429,PRJNA749163,"CCMB, Hyderabad",Targeted SNPs
+182,MAN-IND1,MNSF-1874,+/+,+/+,+/+,+/+,+/+,Pakke,NA,Wild,NE,SAMN20704430,PRJNA749163,"Aaranyak, India",Targeted SNPs
+183,MAN-IND2,MNSF-2469,+/+,+/m,+/+,+/+,+/+,Manas,NA,Wild,NE,SAMN20704431,PRJNA749163,"Aaranyak, India",Targeted SNPs
+184,CCMB-FOR1,WL1065,+/+,+/+,,+/+,+/+,Tadoba - Chandrapur,NA,Wild,CI,SAMN20704547,PRJNA749163,"Reddy et al., 2017",Targeted SNPs
+185,CCMB-FOR2,WL1379,+/+,+/+,,+/+,+/+,Tadoba - Chandrapur,NA,Wild,CI,SAMN20704548,PRJNA749163,"Reddy et al., 2017",Targeted SNPs
+186,CCMB-FOR3,WL1287,+/+,+/+,,+/+,+/+,Tadoba - Chandrapur,NA,Wild,CI,SAMN20704549,PRJNA749163,"Reddy et al., 2017",Targeted SNPs
+187,CCMB-FOR4,WL1325,+/+,+/+,,+/+,+/+,Tadoba - Chandrapur,NA,Wild,CI,SAMN20704550,PRJNA749163,"Reddy et al., 2017",Targeted SNPs
+188,CCMB-FOR5,WL1707,+/+,+/+,,+/+,+/+,Tadoba - Chandrapur,NA,Wild,CI,SAMN20704551,PRJNA749163,"Reddy et al., 2017",Targeted SNPs
+189,CCMB-FOR6,WL1941,+/+,+/+,,+/+,+/+,Tadoba - Chandrapur,NA,Wild,CI,SAMN20704552,PRJNA749163,"Reddy et al., 2017",Targeted SNPs
+190,CCMB-FOR7,WL2015,+/+,+/+,,+/+,+/+,Tadoba - Chandrapur,NA,Wild,CI,SAMN20704553,PRJNA749163,"Reddy et al., 2017",Targeted SNPs
+191,CCMB-FOR8,WL2234,+/+,+/+,,+/+,+/+,Tadoba - Chandrapur,NA,Wild,CI,SAMN20704554,PRJNA749163,"Reddy et al., 2017",Targeted SNPs
+192,CCMB-FOR9,WL2312,+/+,,,+/+,+/+,Tadoba - Chandrapur,NA,Wild,CI,SAMN20704555,PRJNA749163,"Reddy et al., 2017",Targeted SNPs
+193,CCMB-FOR10,WL2352,+/+,+/+,,+/+,+/+,Tadoba - Chandrapur,NA,Wild,CI,SAMN20704556,PRJNA749163,"Reddy et al., 2017",Targeted SNPs
+194,CCMB-FOR11,WL2592,+/+,+/+,,+/+,+/+,Tadoba - Chandrapur,NA,Wild,CI,SAMN20704557,PRJNA749163,"Reddy et al., 2017",Targeted SNPs
+195,CCMB-FOR12,WL2862,+/+,+/+,,+/+,+/+,Bramhapuri,NA,Wild,CI,SAMN20704558,PRJNA749163,"Reddy et al., 2017",Targeted SNPs
+196,CCMB-FOR13,NSTR-Skin,+/+,,,+/+,+/+,"Kaghaznagar, NSTR",NA,Wild,CI,SAMN20704559,PRJNA749163,"Reddy et al., 2017",Targeted SNPs
+197,CCMB-FOR14,Pench Skin,+/+,+/+,,+/+,+/+,Pench MP,NA,Wild,CI,SAMN20704560,PRJNA749163,"Reddy et al., 2017",Targeted SNPs
+198,CCMB-FOR15,SWB1-Tissue,+/+,+/+,,+/+,+/+,Sunderban,NA,Wild,SU,SAMN20704561,PRJNA749163,"CCMB, Hyderabad",Targeted SNPs
+199,CCMB-FOR16,S3 Sunderban,+/+,+/+,,+/+,+/+,Sunderban,NA,Wild,SU,SAMN20704562,PRJNA749163,"CCMB, Hyderabad",Targeted SNPs
+200,CCMB-FOR17,S4 Sunderban,+/+,+/+,,+/+,+/+,Sunderban,NA,Wild,SU,SAMN20704563,PRJNA749163,"CCMB, Hyderabad",Targeted SNPs
+201,CCMB-FOR18,Raja-Sunderban,+/+,+/+,,+/+,+/+,Sunderban,M,Wild,SU,SAMN20704564,PRJNA749163,"CCMB, Hyderabad",Targeted SNPs
+202,CCMB-FOR19,SWB7-Tissue,+/+,+/+,,+/+,+/+,Sunderban,NA,Wild,SU,SAMN20704565,PRJNA749163,"CCMB, Hyderabad",Targeted SNPs
+203,CCMB-FOR20,F1-SWB57,+/+,+/+,,+/+,+/+,Sunderban,NA,Wild,SU,SAMN20704566,PRJNA749163,"CCMB, Hyderabad",Targeted SNPs
+204,CCMB-FOR21,F2-SWB58,+/+,,,+/+,+/+,Sunderban,NA,Wild,SU,SAMN20704567,PRJNA749163,"CCMB, Hyderabad",Targeted SNPs
+205,CCMB-FOR22,WL2756,+/+,+/+,,+/+,+/+,Valmiki,NA,Wild,N,SAMN20704568,PRJNA749163,"CCMB, Hyderabad",Targeted SNPs
+206,CCMB-FOR23,WL2757,+/+,+/+,,+/+,+/+,Valmiki,NA,Wild,N,SAMN20704569,PRJNA749163,"CCMB, Hyderabad",Targeted SNPs
+207,CCMB-FOR24,WL2798,+/+,,,+/+,+/+,Valmiki,NA,Wild,N,SAMN20704570,PRJNA749163,"CCMB, Hyderabad",Targeted SNPs
+208,CCMB-FOR25,WL2799,+/+,,,+/+,+/+,Valmiki,NA,Wild,N,SAMN20704571,PRJNA749163,"CCMB, Hyderabad",Targeted SNPs
+209,CCMB-FOR26,Rajib,+/+,+/+,,+/+,+/+,North East,M,Wild,NE,SAMN20704572,PRJNA749163,"CCMB, Hyderabad",Targeted SNPs
+210,KTR-IND1,KTR122-4-SC,,+/+,,+/+,+/+,Kanha,NA,Wild,CI,SAMN20704453,PRJNA749163,"NCBS, Bangalore",Targeted SNPs
+211,KTR-IND2,KTR129-1,,+/+,,+/+,+/+,Kanha,NA,Wild,CI,SAMN20704454,PRJNA749163,"NCBS, Bangalore",Targeted SNPs
+212,KTR-IND3,KTR131-2,,+/+,,+/+,+/+,Kanha,NA,Wild,CI,SAMN20704455,PRJNA749163,"NCBS, Bangalore",Targeted SNPs
+213,KTR-IND4,KTR168-1,,+/+,,+/+,+/+,Kanha,NA,Wild,CI,SAMN20704456,PRJNA749163,"NCBS, Bangalore",Targeted SNPs
+214,KTR-IND5,KTR120-1,,+/+,,+/+,+/+,Kanha,NA,Wild,CI,SAMN20704457,PRJNA749163,"NCBS, Bangalore",Targeted SNPs
+215,KTR-IND6,KTR145-1,,+/+,,+/+,+/+,Kanha,NA,Wild,CI,SAMN20704458,PRJNA749163,"NCBS, Bangalore",Targeted SNPs
+216,KTR-IND7,KTR013-3,,+/+,,+/+,+/+,Kanha,NA,Wild,CI,SAMN20704459,PRJNA749163,"NCBS, Bangalore",Targeted SNPs
+217,KTR-IND8,KTR015-2-SC,,+/+,,+/+,+/+,Kanha,NA,Wild,CI,SAMN20704460,PRJNA749163,"NCBS, Bangalore",Targeted SNPs
+218,KTR-IND9,KTR015-4-SC,,+/+,,+/+,+/+,Kanha,NA,Wild,CI,SAMN20704461,PRJNA749163,"NCBS, Bangalore",Targeted SNPs
+219,KTR-IND10,KTR007-2,,+/+,,+/+,+/+,Kanha,NA,Wild,CI,SAMN20704462,PRJNA749163,"NCBS, Bangalore",Targeted SNPs
+220,KTR-IND11,KTR019-3,,+/+,,+/+,+/+,Kanha,NA,Wild,CI,SAMN20704463,PRJNA749163,"NCBS, Bangalore",Targeted SNPs
+221,KTR-IND12,KTR122-1,,+/+,,+/+,+/+,Kanha,NA,Wild,CI,SAMN20704464,PRJNA749163,"NCBS, Bangalore",Targeted SNPs
+222,KTR-IND13,KTR011-1,,+/+,,+/+,+/+,Kanha,NA,Wild,CI,SAMN20704465,PRJNA749163,"NCBS, Bangalore",Targeted SNPs
+223,KTR-IND14,KTR012-2,,+/+,,+/+,+/+,Kanha,NA,Wild,CI,SAMN20704466,PRJNA749163,"NCBS, Bangalore",Targeted SNPs
+224,KTR-IND15,KTR015-1-SC,,+/+,,+/+,+/+,Kanha,NA,Wild,CI,SAMN20704467,PRJNA749163,"NCBS, Bangalore",Targeted SNPs
+225,KTR-IND16,KTR019-1-SH,,+/+,,+/+,+/+,Kanha,NA,Wild,CI,SAMN20704468,PRJNA749163,"NCBS, Bangalore",Targeted SNPs
+226,KTR-IND17,KTR020-1,,+/+,,+/+,+/+,Kanha,NA,Wild,CI,SAMN20704469,PRJNA749163,"NCBS, Bangalore",Targeted SNPs
+227,KTR-IND18,KTR097-1,,+/+,,+/+,+/+,Kanha,NA,Wild,CI,SAMN20704470,PRJNA749163,"NCBS, Bangalore",Targeted SNPs
+228,KTR-IND19,KTR032-1,,+/+,,+/+,+/+,Kanha,NA,Wild,CI,SAMN20704471,PRJNA749163,"NCBS, Bangalore",Targeted SNPs
+229,MMTL-IND4,BD-17-9,,+/+,,+/+,+/+,Bhadhra,NA,Wild,SI,SAMN20704475,PRJNA749163,"NCBS, Bangalore",Targeted SNPs
+230,MMTL-IND6,BP-12-49,,+/+,,+/+,+/+,Bandipur,NA,Wild,SI,SAMN20704477,PRJNA749163,"NCBS, Bangalore",Targeted SNPs
+231,MMTL-IND7,BP-12-59,,+/+,,+/+,+/+,Bandipur,NA,Wild,SI,SAMN20704478,PRJNA749163,"NCBS, Bangalore",Targeted SNPs
+232,MMTL-IND8,BP-12-91,,+/+,,+/+,+/+,Bandipur,NA,Wild,SI,SAMN20704479,PRJNA749163,"NCBS, Bangalore",Targeted SNPs
+233,MMTL-IND11,BP-14-2,+/+,,,+/+,+/+,Bandipur,NA,Wild,SI,SAMN20704482,PRJNA749163,"NCBS, Bangalore",Targeted SNPs
+234,MMTL-IND12,BP-14-45,,+/+,,+/+,+/+,Bandipur,NA,Wild,SI,SAMN20704483,PRJNA749163,"NCBS, Bangalore",Targeted SNPs
+235,MMTL-IND13,BP-14-4,,+/+,,+/+,+/+,Bandipur,NA,Wild,SI,SAMN20704484,PRJNA749163,"NCBS, Bangalore",Targeted SNPs
+236,MMTL-IND14,BP-14-20,,+/+,,+/+,+/+,Bandipur,NA,Wild,SI,SAMN20704485,PRJNA749163,"NCBS, Bangalore",Targeted SNPs
+237,MMTL-IND15,BRT-12-35,,+/+,,+/+,+/+,BRT,NA,Wild,SI,SAMN20704486,PRJNA749163,"NCBS, Bangalore",Targeted SNPs
+238,MMTL-IND16,BRT-12-45,,+/+,,+/+,+/+,BRT,NA,Wild,SI,SAMN20704487,PRJNA749163,"NCBS, Bangalore",Targeted SNPs
+239,MMTL-IND17,BRT-13-12,,+/+,,+/+,+/+,BRT,NA,Wild,SI,SAMN20704488,PRJNA749163,"NCBS, Bangalore",Targeted SNPs
+240,MMTL-IND21,NH-13-15,,+/+,,+/+,+/+,Nagarhole,NA,Wild,SI,SAMN20704492,PRJNA749163,"NCBS, Bangalore",Targeted SNPs
+241,MMTL-IND25,NH-17-11,,+/+,,+/+,+/+,Nagarhole,NA,Wild,SI,SAMN20704496,PRJNA749163,"NCBS, Bangalore",Targeted SNPs
+242,MMTL-IND26,NH-17-3,+/+,+/+,,+/+,+/+,Nagarhole,NA,Wild,SI,SAMN20704497,PRJNA749163,"NCBS, Bangalore",Targeted SNPs
+243,MMTL-IND27,NH-17-6,+/+,,,+/+,+/+,Nagarhole,NA,Wild,SI,SAMN20704498,PRJNA749163,"NCBS, Bangalore",Targeted SNPs
+244,MMTL-IND29,NH-17-8,,+/+,,+/+,+/+,Nagarhole,NA,Wild,SI,SAMN20704500,PRJNA749163,"NCBS, Bangalore",Targeted SNPs
+245,MMTL-IND31,NSTR-14-47,+/+,+/+,,+/+,+/+,NSTR,NA,Wild,CI,SAMN20704502,PRJNA749163,"NCBS, Bangalore",Targeted SNPs
+246,MMTL-IND32,NSTR-14-7,+/+,+/+,,+/+,+/+,NSTR,NA,Wild,CI,SAMN20704503,PRJNA749163,"NCBS, Bangalore",Targeted SNPs
+247,MMTL-IND34,SAT-14-7,,+/+,,+/+,+/+,Sathyamangalam,NA,Wild,SI,SAMN20704505,PRJNA749163,"NCBS, Bangalore",Targeted SNPs
+248,MMTL-IND35,SAT-14-9,,+/+,,+/+,+/+,Sathyamangalam,NA,Wild,SI,SAMN20704506,PRJNA749163,"NCBS, Bangalore",Targeted SNPs
+249,MMTL-IND36,WY-15-13,,+/+,,+/+,+/+,Wayanad,NA,Wild,SI,SAMN20704507,PRJNA749163,"NCBS, Bangalore",Targeted SNPs
+250,MMTL-IND37,WY-15-1,,+/+,,+/+,+/+,Wayanad,NA,Wild,SI,SAMN20704508,PRJNA749163,"NCBS, Bangalore",Targeted SNPs
+251,MMTL-IND38,WY-16-3,,+/+,,+/+,+/+,Wayanad,NA,Wild,SI,SAMN20704509,PRJNA749163,"NCBS, Bangalore",Targeted SNPs
+252,MMTL-IND39,WY-17-13,+/+,,,+/+,+/+,Wayanad,NA,Wild,SI,SAMN20704510,PRJNA749163,"NCBS, Bangalore",Targeted SNPs
+253,MMTL-IND41,WY-17-20,+/+,+/+,,+/+,+/+,Wayanad,NA,Wild,SI,SAMN20704512,PRJNA749163,"NCBS, Bangalore",Targeted SNPs
+254,MMTL-IND42,WY-17-26,+/+,,,+/+,+/+,Wayanad,NA,Wild,SI,SAMN20704513,PRJNA749163,"NCBS, Bangalore",Targeted SNPs
+255,BEN-Genome1,BEN_CI02,,+/+,,+/+,+/+,Chandrapur,NA,Wild,CI,SAMN17487589,PRJNA693788,"Armstrong et al., 2021",WGS
+256,BEN-Genome2,BEN_CI03,,+/+,,+/+,+/+,Kanha,NA,Wild,CI,SAMN17487590,PRJNA693788,"Armstrong et al., 2021",WGS
+257,BEN-Genome3,BEN_CI04,,+/+,,+/+,+/+,Kanha,NA,Wild,CI,SAMN17487591,PRJNA693788,"Armstrong et al., 2021",WGS
+258,BEN-Genome4,BEN_CI05,,+/+,,+/+,+/+,Kanha,NA,Wild,CI,SAMN17487592,PRJNA693788,"Armstrong et al., 2021",WGS
+259,BEN-Genome5,BEN_CI06,,+/+,,+/+,+/+,Kanha,NA,Wild,CI,SAMN17487593,PRJNA693788,"Armstrong et al., 2021",WGS
+260,BEN-Genome6,BEN_CI07,,+/+,,+/+,+/+,Kanha,NA,Wild,CI,SAMN17487594,PRJNA693788,"Armstrong et al., 2021",WGS
+261,BEN-Genome7,BEN_CI15,,+/+,,+/+,+/+,Kanha,NA,Wild,CI,SAMN20398718,PRJNA728665,"Khan et al., preprint",WGS
+262,BEN-Genome8,BEN_CI16,,+/+,,+/+,+/+,Kanha,NA,Wild,CI,SAMN20398719,PRJNA728665,"Khan et al., preprint",WGS
+263,BEN-Genome9,BEN_CI18,,+/+,,+/+,+/+,Kanha,NA,Wild,CI,SAMN20398720,PRJNA728665,"Khan et al., preprint",WGS
+264,BEN-Genome10,BEN_CI19,,+/+,,+/+,+/+,Kanha,NA,Wild,CI,SAMN20398721,PRJNA728665,"Khan et al., preprint",WGS
+265,BEN-Genome11,LGS-01,+/+,+/+,,+/+,+/+,Lalgarh,NA,Wild,CI,SAMN20398747,PRJNA728665,"Khan et al., preprint",WGS
+266,BEN-Genome12,BEN_NE01,,+/+,,+/+,+/+,Assam,NA,Wild,NE,SAMN17487596,PRJNA693788,"Armstrong et al., 2021",WGS
+267,BEN-Genome13,BEN_NE02,,+/+,,+/+,+/+,Assam,NA,Wild,NE,SAMN17487597,PRJNA693788,"Armstrong et al., 2021",WGS
+268,BEN-Genome14,BEN_NE03,,+/+,,+/+,+/+,Assam,NA,Wild,NE,SAMN17487598,PRJNA693788,"Armstrong et al., 2021",WGS
+269,BEN-Genome15,BEN_NOR01,,+/+,,+/+,+/+,Corbet,NA,Wild,N,SAMN17487599,PRJNA693788,"Armstrong et al., 2021",WGS
+270,BEN-Genome16,BEN_NOR02,,+/+,,+/+,+/+,Corbet,NA,Wild,N,SAMN17487600,PRJNA693788,"Armstrong et al., 2021",WGS
+271,BEN-Genome17,BEN_NW01,,+/+,,+/+,+/+,Ranthambore,NA,Wild,NW,SAMN17487601,PRJNA693788,"Armstrong et al., 2021",WGS
+272,BEN-Genome18,BEN_NW03,,+/+,,+/+,+/+,Ranthambore,NA,Wild,NW,SAMN17487602,PRJNA693788,"Armstrong et al., 2021",WGS
+273,BEN-Genome19,BEN_NW05,,+/+,,+/+,+/+,Ranthambore,NA,Wild,NW,SAMN12549969,PRJNA559670,"Khan et al., 2020",WGS
+274,BEN-Genome20,BEN_NW06,,+/+,,+/+,+/+,Ranthambore,NA,Wild,NW,SAMN20398737,PRJNA728665,"Khan et al., preprint",WGS
+275,BEN-Genome21,BEN_NW08,,+/+,,+/+,+/+,Ranthambore,NA,Wild,NW,SAMN20398739,PRJNA728665,"Khan et al., preprint",WGS
+276,BEN-Genome22,BEN_NW09,,+/+,,+/+,+/+,Ranthambore,NA,Wild,NW,SAMN20398740,PRJNA728665,"Khan et al., preprint",WGS
+277,BEN-Genome23,BEN_NW10,,+/+,,+/+,+/+,Ranthambore,NA,Wild,NW,SAMN20398724,PRJNA728665,"Khan et al., preprint",WGS
+278,BEN-Genome24,BEN_NW11,,+/+,,+/+,+/+,Ranthambore,NA,Wild,NW,SAMN20398725,PRJNA728665,"Khan et al., preprint",WGS
+279,BEN-Genome25,BEN_NW12,,+/+,,+/+,+/+,Ranthambore,NA,Wild,NW,SAMN20398726,PRJNA728665,"Khan et al., preprint",WGS
+280,BEN-Genome26,BEN_NW13,,+/+,,+/+,+/+,Ranthambore,NA,Wild,NW,SAMN20398727,PRJNA728665,"Khan et al., preprint",WGS
+281,BEN-Genome27,BEN_NW14,,+/+,,+/+,+/+,Ranthambore,NA,Wild,NW,SAMN20398728,PRJNA728665,"Khan et al., preprint",WGS
+282,BEN-Genome28,BEN_NW17,,+/+,,+/+,+/+,Ranthambore,NA,Wild,NW,SAMN20398729,PRJNA728665,"Khan et al., preprint",WGS
+283,BEN-Genome29,BEN_NW18,,+/+,,+/+,+/+,Ranthambore,NA,Wild,NW,SAMN20398730,PRJNA728665,"Khan et al., preprint",WGS
+284,BEN-Genome30,BEN_NW19,,+/+,,+/+,+/+,Ranthambore,NA,Wild,NW,SAMN20398731,PRJNA728665,"Khan et al., preprint",WGS
+285,BEN-Genome31,BEN_NW20,,+/+,,+/+,+/+,Ranthambore,NA,Wild,NW,SAMN12620966,PRJNA559670,"Khan et al., 2020",WGS
+286,BEN-Genome32,BEN_NW21,,+/+,,+/+,+/+,Ranthambore,NA,Wild,NW,SAMN12623715,PRJNA559670,"Khan et al., 2020",WGS
+287,BEN-Genome33,BEN_NW23,,+/+,,+/+,+/+,Ranthambore,NA,Wild,NW,SAMN12575863,PRJNA559670,"Khan et al., 2020",WGS
+288,BEN-Genome34,BEN_NW24,,+/+,,+/+,+/+,Ranthambore,NA,Wild,NW,SAMN20398733,PRJNA728665,"Khan et al., preprint",WGS
+289,BEN-Genome35,BEN_NW55,,+/+,,+/+,+/+,Ranthambore,NA,Wild,NW,SAMN20398735,PRJNA728665,"Khan et al., preprint",WGS
+290,BEN-Genome36,BEN_NW57,,+/+,,+/+,+/+,Ranthambore,NA,Wild,NW,SAMN20398736,PRJNA728665,"Khan et al., preprint",WGS
+291,BEN-Genome37,BEN_NW63,,+/+,,+/+,+/+,Ranthambore,NA,Wild,NW,SAMN20954422,PRJNA749163,"NCBS, Bangalore",TaqpepRegionBamFile
+292,BEN-Genome38,BEN_SI02,,+/+,,+/+,+/+,Wayanad,NA,Wild,SI,SAMN17487605,PRJNA693788,"Armstrong et al., 2021",WGS
+293,BEN-Genome39,BEN_SI03,,+/+,,+/+,+/+,Wayanad,NA,Wild,SI,SAMN17487606,PRJNA693788,"Armstrong et al., 2021",WGS
+294,BEN-Genome40,BEN_SI05,,+/+,,+/+,+/+,Wayanad,NA,Wild,SI,SAMN17487608,PRJNA693788,"Armstrong et al., 2021",WGS
+295,BEN-Genome41,BEN_SI06,,+/+,,+/+,+/+,Wayanad,NA,Wild,SI,SAMN17487609,PRJNA693788,"Armstrong et al., 2021",WGS
+296,BEN-Genome42,BEN_SI08,,+/+,,+/+,+/+,Wayanad,NA,Wild,SI,SAMN17487607,PRJNA728665,"Khan et al., preprint",WGS
+297,BEN-Genome43,BEN_SI09,,+/+,,+/+,+/+,Wayanad,NA,Wild,SI,SAMN17487607,PRJNA728665,"Khan et al., preprint",WGS
+298,BEN-Genome44,BEN_SI10,,+/+,,+/+,+/+,Wayanad,NA,Wild,SI,SAMN20954421,PRJNA749163,"NCBS, Bangalore",TaqpepRegionBamFile
+299,BEN-Genome45,BEN_SI18,,+/+,,+/+,+/+,Wayanad,NA,Wild,SI,SAMN20398742,PRJNA728665,"Khan et al., preprint",WGS
+300,BEN-Genome46,BEN_SI19,,+/+,,+/+,+/+,Wayanad,NA,Wild,SI,SAMN20398743,PRJNA728665,"Khan et al., preprint",WGS
+301,BEN-Genome47,BEN_NW29,,+/+,,+/+,+/+,Ranthambore,NA,Wild,NW,SAMN20954423,PRJNA749163,"NCBS, Bangalore",TaqpepRegionBamFile
+302,BEN-Genome48,BEN_NW47,,+/+,,+/+,+/+,Ranthambore,NA,Wild,NW,SAMN20954424,PRJNA749163,"NCBS, Bangalore",TaqpepRegionBamFile
+303,BEN-Genome49,BEN_NW54,,+/+,,+/+,+/+,Ranthambore,NA,Wild,NW,SAMN20954425,PRJNA749163,"NCBS, Bangalore",TaqpepRegionBamFile
+304,BEN-Genome50,BEN_NW27,,+/+,,+/+,+/+,Ranthambore,NA,Wild,NW,SAMN20954426,PRJNA749163,"NCBS, Bangalore",TaqpepRegionBamFile
+305,RTR-IND1,T25,,+/+,,+/+,+/+,Ranthambore,NA,Wild,NW,SAMN20704514,PRJNA749163,"NCBS, Bangalore",Targeted SNPs
+306,RTR-IND2,T34C1,,+/+,,+/+,+/+,Ranthambore,NA,Wild,NW,SAMN20704515,PRJNA749163,"NCBS, Bangalore",Targeted SNPs
+307,AMU1,AMU1,,+/+,,+/+,+/+,Amur,NA,Wild,AMU,SAMN17816816,PRJNA548814,"Armstrong et al., 2021",WGS
+308,AMU2,AMU2,,+/+,,+/+,+/+,Amur,NA,Wild,AMU,SAMN17816822,PRJNA548814,"Armstrong et al., 2021",WGS
+309,AMU4,AMU4,,+/+,,+/+,+/+,Amur,NA,Wild,AMU,SAMN17816829,PRJNA548814,"Armstrong et al., 2021",WGS
+310,AMU5,AMU5,,+/+,,+/+,+/+,Amur,NA,Wild,AMU,SAMN17816830,PRJNA548814,"Armstrong et al., 2021",WGS
+311,AMU7,AMU7,,+/+,,+/+,+/+,Amur,NA,Wild,AMU,SAMN17816831,PRJNA548814,"Armstrong et al., 2021",WGS
+312,AMU8,AMU8,,+/+,,+/+,+/+,Amur,NA,Wild,AMU,SAMN17816832,PRJNA548814,"Armstrong et al., 2021",WGS
+313,AMU9,AMU9,,+/+,,+/+,+/+,Amur,NA,Wild,AMU,SAMN17816833,PRJNA548814,"Armstrong et al., 2021",WGS
+314,AMU18,AMU18,,+/+,,+/+,+/+,Amur,NA,Wild,AMU,SAMN17816821,PRJNA548814,"Armstrong et al., 2021",WGS
+315,AMU20,AMU20,,+/+,,+/+,+/+,Amur,NA,Wild,AMU,SAMN17816823,PRJNA548814,"Armstrong et al., 2021",WGS
+316,AMU21,AMU21,,+/+,,+/+,+/+,Amur,NA,Wild,AMU,SAMN17816824,PRJNA548814,"Armstrong et al., 2021",WGS
+317,AMU22,AMU22,,+/+,,+/+,+/+,Amur,NA,Wild,AMU,SAMN17816825,PRJNA548814,"Armstrong et al., 2021",WGS
+318,AMU24,AMU24,,+/+,,+/+,+/+,Amur,NA,Wild,AMU,SAMN17816827,PRJNA548814,"Armstrong et al., 2021",WGS
+319,MAL1,MAL1,,+/+,,+/+,+/+,Malayan,NA,Wild,MAL,SAMN17816855,PRJNA548814,"Armstrong et al., 2021",WGS
+320,MAL2,MAL2,,+/+,,+/+,+/+,Malayan,NA,Wild,MAL,SAMN17816862,PRJNA548814,"Armstrong et al., 2021",WGS
+321,MAL3,MAL3,,+/+,,+/+,+/+,Malayan,NA,Wild,MAL,SAMN17816864,PRJNA548814,"Armstrong et al., 2021",WGS
+322,MAL4,MAL4,,+/+,,+/+,+/+,Malayan,NA,Wild,MAL,SAMN17816865,PRJNA548814,"Armstrong et al., 2021",WGS
+323,MAL5,MAL5,,+/+,,+/+,+/+,Malayan,NA,Wild,MAL,SAMN17816866,PRJNA548814,"Armstrong et al., 2021",WGS
+324,MAL6,MAL6,,+/+,,+/+,+/+,Malayan,NA,Wild,MAL,SAMN17816867,PRJNA548814,"Armstrong et al., 2021",WGS
+325,MAL10,MAL10,,+/+,,+/+,+/+,Malayan,NA,Wild,MAL,SAMN17816856,PRJNA548814,"Armstrong et al., 2021",WGS
+326,MAL11,MAL11,,+/+,,+/+,+/+,Malayan,NA,Wild,MAL,SAMN17816857,PRJNA548814,"Armstrong et al., 2021",WGS
+327,MAL12,MAL12,,+/+,,+/+,+/+,Malayan,NA,Wild,MAL,SAMN17816858,PRJNA548814,"Armstrong et al., 2021",WGS
+328,MAL13,MAL13,,+/+,,+/+,+/+,Malayan,NA,Wild,MAL,SAMN17816859,PRJNA548814,"Armstrong et al., 2021",WGS
+329,MAL14,MAL14,,+/+,,+/+,+/+,Malayan,NA,Wild,MAL,SAMN17816860,PRJNA548814,"Armstrong et al., 2021",WGS
+330,MAL26,MAL26,,+/+,,+/+,+/+,Malayan,NA,Wild,MAL,SAMN17816863,PRJNA548814,"Armstrong et al., 2021",WGS
+331,SUM2,SUM2,,+/+,,+/+,+/+,Sumatran,NA,Captive,SUM,SAMN17816873,PRJNA548814,"Armstrong et al., 2021",WGS
+332,SUM6,SUM6,,+/+,,+/+,+/+,Sumatran,NA,Captive,SUM,SAMN17816877,PRJNA548814,"Armstrong et al., 2021",WGS
+333,SUM9,SUM9,,+/+,,+/+,+/+,Sumatran,NA,Captive,SUM,SAMN17816880,PRJNA548814,"Armstrong et al., 2021",WGS
+334,SUM13,SUM13,,+/+,,+/+,+/+,Sumatran,NA,Captive,SUM,SAMN17816871,PRJNA548814,"Armstrong et al., 2021",WGS
+335,SUM14,SUM14,,+/+,,+/+,+/+,Sumatran,NA,Captive,SUM,SAMN17816872,PRJNA548814,"Armstrong et al., 2021",WGS
+336,NKB01,ZSB_01,+/+,+/+,+/+,+/+,+/+,Nandankanan,F,Captive,NKB,SAMN20424160,PRJNA749163,"NCBS, Bangalore",WGS
+337,NKB14,ZSB_02,+/+,+/+,+/+,+/+,+/+,Nandankanan,M,Captive,NKB,SAMN20424161,PRJNA749163,"NCBS, Bangalore",WGS
+338,NKB15,ZSB_03,+/m,+/m,+/m,+/m,+/m,Nandankanan,F,Captive,NKB,SAMN20424162,PRJNA749163,"NCBS, Bangalore",WGS
+339,NKB13,ZSB_04,m/m,m/m,m/m,m/m,m/m,Nandankanan,M,Captive,NKB,SAMN20424163,PRJNA749163,"NCBS, Bangalore",WGS
+340,NKB07,ZSB_05,+/m,+/m,+/m,+/m,+/m,Nandankanan,M,Captive,NKB,SAMN20424164,PRJNA749163,"NCBS, Bangalore",WGS
+341,NKB10,ZSS_01,m/m,m/m,m/m,m/m,m/m,Nandankanan,M,Captive,NKB,SAMN20424165,PRJNA749163,"NCBS, Bangalore",WGS
+342,NKB11,ZSS_02,m/m,m/m,m/m,m/m,m/m,Nandankanan,M,Captive,NKB,SAMN20424166,PRJNA749163,"NCBS, Bangalore",WGS
+343,NKB02,ZSS_11,+/m,+/m,+/m,+/m,+/m,Nandankanan,F,Captive,NKB,SAMN20424167,PRJNA749163,"NCBS, Bangalore",WGS
+344,NKB17,ZSS_12,+/+,+/+,+/+,+/+,+/+,Nandankanan,M,Captive,NKB,SAMN20424168,PRJNA749163,"NCBS, Bangalore",WGS
+345,NKB08,ZSS_03,+/m,,+/m,+/m,+/m,Nandankanan,F,Captive,NKB,Not available,PRJNA749163,"NCBS, Bangalore",Targeted SNPs
+346,NKB06,ZSS_04,+/m,,+/m,+/m,+/m,Nandankanan,M,Captive,NKB,Not available,PRJNA749163,"NCBS, Bangalore",Targeted SNPs
+347,NKB12,ZSS_05,+/m,,+/m,+/m,+/m,Nandankanan,F,Captive,NKB,Not available,PRJNA749163,"NCBS, Bangalore",Targeted SNPs
+348,NKB04,ZSS_06,+/m,,+/m,+/m,+/m,Nandankanan,F,Captive,NKB,Not available,PRJNA749163,"NCBS, Bangalore",Targeted SNPs
+349,NKB05,ZSS_07,+/m,,+/m,+/m,+/m,Nandankanan,F,Captive,NKB,Not available,PRJNA749163,"NCBS, Bangalore",Targeted SNPs
+350,NKB03,ZSS_08,+/+,,+/+,+/+,+/+,Nandankanan,F,Captive,NKB,Not available,PRJNA749163,"NCBS, Bangalore",Targeted SNPs
+351,NKB09,ZSH_11,+/+,,+/+,+/+,+/+,Nandankanan,F,Captive,NKB,Not available,PRJNA749163,"NCBS, Bangalore",Targeted SNPs
+352,AAC01,CZSF-02,+/m,,+/m,+/m,+/m,Arignar Anna Zoo,M,Captive,AAC,SAMN20704516,PRJNA749163,"NCBS, Bangalore",Targeted SNPs
+353,AAC02,CZSF-05,m/m,,m/m,m/m,m/m,Arignar Anna Zoo,M,Captive,AAC,SAMN20704517,PRJNA749163,"NCBS, Bangalore",Targeted SNPs
+354,AAC03,CZSF-01,m/m,,m/m,m/m,m/m,Arignar Anna Zoo,F,Captive,AAC,SAMN20704518,PRJNA749163,"NCBS, Bangalore",Targeted SNPs
+355,AAC04,CZSF-03,+/m,,+/m,+/m,+/m,Arignar Anna Zoo,F,Captive,AAC,SAMN20704519,PRJNA749163,"NCBS, Bangalore",Targeted SNPs
+356,AAC05,CZSF-04,+/m,,+/m,+/m,+/m,Arignar Anna Zoo,F,Captive,AAC,SAMN20704520,PRJNA749163,"NCBS, Bangalore",Targeted SNPs
+357,BEN_ZOO1,BEN_ZOO1,,+/+,,+/+,+/+,Mysore Zoo,NA,Captive,,SAMN20954427,PRJNA749163,"NCBS, Bangalore",WGS
+358,BEN_ZOO2,BEN_ZOO2,,+/+,,+/+,+/+,Indian Zoo,NA,Captive,,SAMN20954428,PRJNA749163,"NCBS, Bangalore",WGS
+359,BEN_ZOO3,BEN_ZOO3,,+/+,,+/+,+/+,Indian Zoo,NA,Captive,,SAMN20954429,PRJNA749163,"NCBS, Bangalore",WGS
+360,BEN_ZOO5,BEN_ZOO5,,+/+,,+/+,+/+,Indian Zoo,NA,Captive,,SAMN20954430,PRJNA749163,"NCBS, Bangalore",WGS
+361,BEN_ZOO6,BEN_ZOO6,,+/+,,+/+,+/+,Indian Zoo,NA,Captive,,SAMN20954431,PRJNA749163,"NCBS, Bangalore",WGS
+362,BEN_ZOO8,BEN_ZOO8,,+/+,,+/+,+/+,Indian Zoo,NA,Captive,,SAMN20954432,PRJNA749163,"NCBS, Bangalore",WGS
+363,DBNG10,DBNG10,,,+/+,+/+,+/+,Dibang Tiger Reserve,NA,Wild,NE,Not available,Not available,"WII, Dehradun",Not Applicable
+364,DBNG18,DBNG18,,,+/+,+/+,+/+,Dibang Tiger Reserve,NA,Wild,NE,Not available,Not available,"WII, Dehradun",Not Applicable
+365,DBNG14,DBNG14,,,+/+,+/+,+/+,Dibang Tiger Reserve,NA,Wild,NE,Not available,Not available,"WII, Dehradun",Not Applicable
+366,KAZ7,KAZ7,+/+,,+/+,+/+,+/+,Kaziranga Tiger Reserve,NA,Wild,NE,Not available,Not available,"WII, Dehradun",Not Applicable
+367,MAN24,MAN24,,,+/+,+/+,+/+,Manas Tiger Reserve,NA,Wild,NE,Not available,Not available,"WII, Dehradun",Not Applicable
+368,MAN26,MAN26,,,+/+,+/+,+/+,Manas Tiger Reserve,NA,Wild,NE,Not available,Not available,"WII, Dehradun",Not Applicable
+369,NMTR258,NMTR258,,,+/+,+/+,+/+,Namdapha Tiger Reserve,NA,Wild,NE,Not available,Not available,"WII, Dehradun",Not Applicable
+370,ORG16,ORG16,,,+/+,+/+,+/+,Orang Tiger Reserve,NA,Wild,NE,Not available,Not available,"WII, Dehradun",Not Applicable
+371,ORG35,ORG35,+/+,,+/+,+/+,+/+,Orang Tiger Reserve,NA,Wild,NE,Not available,Not available,"WII, Dehradun",Not Applicable
+372,ORG73,ORG73,+/+,,,+/+,+/+,Orang Tiger Reserve,NA,Wild,NE,Not available,Not available,"WII, Dehradun",Not Applicable
+373,ORG92,ORG92,+/+,,+/+,+/+,+/+,Orang Tiger Reserve,NA,Wild,NE,Not available,Not available,"WII, Dehradun",Not Applicable
+374,PAK150,PAK150,,,+/+,+/+,+/+,Pakke Tiger Reserve,NA,Wild,NE,Not available,Not available,"WII, Dehradun",Not Applicable
+375,PAK164,PAK164,+/+,,+/+,+/+,+/+,Pakke Tiger Reserve,NA,Wild,NE,Not available,Not available,"WII, Dehradun",Not Applicable
+376,PAK167,PAK167,+/+,,+/+,+/+,+/+,Pakke Tiger Reserve,NA,Wild,NE,Not available,Not available,"WII, Dehradun",Not Applicable
+377,RTR-14-50,RTR-14-50,,,+/+,+/+,+/+,Rajaji Tiger Reserve,NA,Wild,N,Not available,Not available,"WII, Dehradun",Not Applicable
+378,RTR-14-60,RTR-14-60,+/+,,+/+,+/+,+/+,Rajaji Tiger Reserve,NA,Wild,N,Not available,Not available,"WII, Dehradun",Not Applicable
+379,RTR-14-68,RTR-14-68,,,+/+,+/+,+/+,Rajaji Tiger Reserve,NA,Wild,N,Not available,Not available,"WII, Dehradun",Not Applicable
+380,RTR-16-234,RTR-16-234,,,+/+,+/+,+/+,Rajaji Tiger Reserve,NA,Wild,N,Not available,Not available,"WII, Dehradun",Not Applicable
+381,RTR-16-229,RTR-16-229,+/+,,,+/+,+/+,Rajaji Tiger Reserve,NA,Wild,N,Not available,Not available,"WII, Dehradun",Not Applicable
+382,RTR-16-243,RTR-16-243,,,+/+,+/+,+/+,Rajaji Tiger Reserve,NA,Wild,N,Not available,Not available,"WII, Dehradun",Not Applicable
+383,RTR-16-256,RTR-16-256,,,+/+,+/+,+/+,Rajaji Tiger Reserve,NA,Wild,N,Not available,Not available,"WII, Dehradun",Not Applicable
+384,RTR-15-345,RTR-15-345,,,+/+,+/+,+/+,Rajaji Tiger Reserve,NA,Wild,N,Not available,Not available,"WII, Dehradun",Not Applicable
+385,CTR-18-076,CTR-18-076,+/+,,+/+,+/+,+/+,Corbett Tiger Reseve,NA,Wild,N,Not available,Not available,"WII, Dehradun",Not Applicable
+386,CTR-18-077,CTR-18-077,+/+,,+/+,+/+,+/+,Corbett Tiger Reseve,NA,Wild,N,Not available,Not available,"WII, Dehradun",Not Applicable
+387,KTR-18-085,KTR-18-085,,,+/+,+/+,+/+,Corbett Tiger Reseve,NA,Wild,N,Not available,Not available,"WII, Dehradun",Not Applicable
+388,CTR-18-042,CTR-18-042,,,+/+,+/+,+/+,Corbett Tiger Reseve,NA,Wild,N,Not available,Not available,"WII, Dehradun",Not Applicable
+389,PTR-17-121,PTR-17-121,,,+/+,+/+,+/+,Pilibhit Tiger Reserve,NA,Wild,N,Not available,Not available,"WII, Dehradun",Not Applicable
+390,DTR-17-67,DTR-17-67,+/+,,+/+,+/+,+/+,Dudhwa Tiger Reserve,NA,Wild,N,Not available,Not available,"WII, Dehradun",Not Applicable
+391,DTR-17-27,DTR-17-27,,,+/+,+/+,+/+,Dudhwa Tiger Reserve,NA,Wild,N,Not available,Not available,"WII, Dehradun",Not Applicable
+392,DTR-17-28,DTR-17-28,+/+,,+/+,+/+,+/+,Dudhwa Tiger Reserve,NA,Wild,N,Not available,Not available,"WII, Dehradun",Not Applicable
+393,DTR-17-25,DTR-17-25,+/+,,+/+,+/+,+/+,Dudhwa Tiger Reserve,NA,Wild,N,Not available,Not available,"WII, Dehradun",Not Applicable
+394,DTR-17-84,DTR-17-84,,,+/+,+/+,+/+,Dudhwa Tiger Reserve,NA,Wild,N,Not available,Not available,"WII, Dehradun",Not Applicable
+395,PTR-17-140,PTR-17-140,+/+,,,+/+,+/+,Pilibhit Tiger Reserve,NA,Wild,N,Not available,Not available,"WII, Dehradun",Not Applicable
+396,PTR-17-142,PTR-17-142,+/+,,+/+,+/+,+/+,Pilibhit Tiger Reserve,NA,Wild,N,Not available,Not available,"WII, Dehradun",Not Applicable
+397,VTR-18-001,VTR-18-001,,,+/+,+/+,+/+,Valmiki Tiger Reserve,NA,Wild,N,Not available,Not available,"WII, Dehradun",Not Applicable
+398,VTR-18-002,VTR-18-002,,,+/+,+/+,+/+,Valmiki Tiger Reserve,NA,Wild,N,Not available,Not available,"WII, Dehradun",Not Applicable
+399,VTR-18-015,VTR-18-015,,,+/+,+/+,+/+,Valmiki Tiger Reserve,NA,Wild,N,Not available,Not available,"WII, Dehradun",Not Applicable
+400,VTR-18-056,VTR-18-056,,,+/+,+/+,+/+,Valmiki Tiger Reserve,NA,Wild,N,Not available,Not available,"WII, Dehradun",Not Applicable
+401,VTR-18-057,VTR-18-057,+/+,,+/+,+/+,+/+,Valmiki Tiger Reserve,NA,Wild,N,Not available,Not available,"WII, Dehradun",Not Applicable
+402,VTR-18-064,VTR-18-064,+/+,,+/+,+/+,+/+,Valmiki Tiger Reserve,NA,Wild,N,Not available,Not available,"WII, Dehradun",Not Applicable
+403,VTR-18-067,VTR-18-067,+/+,,+/+,+/+,+/+,Valmiki Tiger Reserve,NA,Wild,N,Not available,Not available,"WII, Dehradun",Not Applicable
+404,VTR-18-095,VTR-18-095,+/+,,+/+,+/+,+/+,Valmiki Tiger Reserve,NA,Wild,N,Not available,Not available,"WII, Dehradun",Not Applicable
+405,RTPN01,RK104,+/+,,+/+,+/+,+/+,Ratapani Tiger Reserve,NA,Wild,CI,SAMN20704528,PRJNA749163,"SFRI, Dehradun",Targeted SNPs
+406,RTPN02,RK182,+/+,,+/+,+/+,+/+,Ratapani Tiger Reserve,NA,Wild,CI,SAMN20704533,PRJNA749163,"SFRI, Dehradun",Targeted SNPs
+407,RTPN03,RK208,,+/+,,+/+,+/+,Ratapani Tiger Reserve,NA,Wild,CI,SAMN20704535,PRJNA749163,"SFRI, Dehradun",Targeted SNPs
+408,RTPN04,RK241,,+/+,,+/+,+/+,Ratapani Tiger Reserve,NA,Wild,CI,SAMN20704536,PRJNA749163,"SFRI, Dehradun",Targeted SNPs
+409,RTPN05,RK017,+/+,+/+,+/+,+/+,+/+,Ratapani Tiger Reserve,NA,Wild,CI,SAMN20704523,PRJNA749163,"SFRI, Dehradun",Targeted SNPs
+410,RTPN06,RK009,+/+,+/+,+/+,+/+,+/+,Ratapani Tiger Reserve,NA,Wild,CI,SAMN20704521,PRJNA749163,"SFRI, Dehradun",Targeted SNPs
+411,RTPN07,RK012,+/+,+/+,+/+,+/+,+/+,Ratapani Tiger Reserve,NA,Wild,CI,SAMN20704522,PRJNA749163,"SFRI, Dehradun",Targeted SNPs
+412,RTPN08,RK046,+/+,,+/+,+/+,+/+,Ratapani Tiger Reserve,NA,Wild,CI,SAMN20704526,PRJNA749163,"SFRI, Dehradun",Targeted SNPs
+413,RTPN09,RK163,,,+/+,+/+,+/+,Ratapani Tiger Reserve,NA,Wild,CI,SAMN20704530,PRJNA749163,"SFRI, Dehradun",Targeted SNPs
+414,RTPN11,RK035,+/+,+/+,+/+,+/+,+/+,Ratapani Tiger Reserve,NA,Wild,CI,SAMN20704524,PRJNA749163,"SFRI, Dehradun",Targeted SNPs
+415,RTPN12,RK043,+/+,,+/+,+/+,+/+,Ratapani Tiger Reserve,NA,Wild,CI,SAMN20704525,PRJNA749163,"SFRI, Dehradun",Targeted SNPs
+416,RTPN14,RK144,+/+,,+/+,+/+,+/+,Ratapani Tiger Reserve,NA,Wild,CI,SAMN20704529,PRJNA749163,"SFRI, Dehradun",Targeted SNPs
+417,RTPN15,RK173,+/+,,+/+,+/+,+/+,Ratapani Tiger Reserve,NA,Wild,CI,SAMN20704531,PRJNA749163,"SFRI, Dehradun",Targeted SNPs
+418,RTPN16,RK178,+/+,,+/+,+/+,+/+,Ratapani Tiger Reserve,NA,Wild,CI,SAMN20704532,PRJNA749163,"SFRI, Dehradun",Targeted SNPs
+419,RTPN17,RK289,,+/+,,+/+,+/+,Ratapani Tiger Reserve,NA,Wild,CI,SAMN20704537,PRJNA749163,"SFRI, Dehradun",Targeted SNPs
+420,RTPN18,RK319,,+/+,,+/+,+/+,Ratapani Tiger Reserve,NA,Wild,CI,SAMN20704538,PRJNA749163,"SFRI, Dehradun",Targeted SNPs
+421,SATP01,STR130,+/+,+/+,+/+,+/+,+/+,Satpura Tiger Reserve,NA,Wild,CI,SAMN20704543,PRJNA749163,"SFRI, Dehradun",Targeted SNPs
+422,SATP02,STR266,+/+,+/+,+/+,+/+,+/+,Satpura Tiger Reserve,NA,Wild,CI,SAMN20704546,PRJNA749163,"SFRI, Dehradun",Targeted SNPs
+423,SATP03,STR040,+/+,,+/+,+/+,+/+,Satpura Tiger Reserve,NA,Wild,CI,SAMN20704541,PRJNA749163,"SFRI, Dehradun",Targeted SNPs
+424,SATP04,STR050,+/+,+/+,+/+,+/+,+/+,Satpura Tiger Reserve,NA,Wild,CI,SAMN20704542,PRJNA749163,"SFRI, Dehradun",Targeted SNPs
+425,SATP05,STR010,+/+,+/+,+/+,+/+,+/+,Satpura Tiger Reserve,NA,Wild,CI,SAMN20704540,PRJNA749163,"SFRI, Dehradun",Targeted SNPs
+426,SATP06,STR227,+/+,,+/+,+/+,+/+,Satpura Tiger Reserve,NA,Wild,CI,SAMN20704545,PRJNA749163,"SFRI, Dehradun",Targeted SNPs
+427,SATP07,STR145,+/+,+/+,+/+,+/+,+/+,Satpura Tiger Reserve,NA,Wild,CI,SAMN20704544,PRJNA749163,"SFRI, Dehradun",Targeted SNPs
+428,SATP08,STR006,+/+,,+/+,+/+,+/+,Satpura Tiger Reserve,NA,Wild,CI,SAMN20704539,PRJNA749163,"SFRI, Dehradun",Targeted SNPs
+,,,,,,,,,,,,,,,
+#Armstrong et al. 2021 - Recent Evolutionary History of Tigers Highlights Contrasting Roles of Genetic Drift and Selection; DOI - 10.1093/molbev/msab032,,,,,,,,,,,,,,,
+#Khan et al. 2020 - Are shed hair genomes the most effective noninvasive resource for estimating relationships in the wild?; DOI - 10.1002/ece3.6157,,,,,,,,,,,,,,,
+#Khan et al. preprint - Genomic evidence for inbreeding depression and purging of deleterious genetic variation in Indian tigers; http://biorxiv.org/content/early/2021/05/18/2021.05.18.444660.abstract,,,,,,,,,,,,,,,
+"#Reddy et al., 2017 - Tiger abundance and gene flow in Central India are driven by disparate combinations of topography and land cover; DOI - 10.1111/ddi.12580",,,,,,,,,,,,,,,
+"#Reddy et al., 2019 - Spatial variation in the response of tiger gene flow to landscape features and limiting factors; DOI - 10.1111/acv.12488",,,,,,,,,,,,,,,
